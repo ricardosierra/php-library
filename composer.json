@@ -1,11 +1,11 @@
 {
-	"name": "bkwld/library",
+	"name": "ricardosierra/library",
 	"description": "Misc PHP code",
 	"authors": [{ "name": "Robert Reinhard", "email": "info@bkwld.com" }  ],
 	"license": "MIT",
 	"require": {
 		"php": ">=5.4.0",
-		"illuminate/support": "^5.0"
+		"illuminate/support": "^5.0|^6.0|^7.0|^8.0"
 	},
 	"require-dev": {
 		"mockery/mockery": "0.9.*",
