@@ -14,14 +14,14 @@
     },
     "require-dev": {
         "mockery/mockery": "^1.6",
-        "phpunit/phpunit": "^12.0"
+        "phpunit/phpunit": "^13.0"
     },
     "autoload": {
         "psr-4": {
             "Bkwld\\Library\\": "src/"
         }
     },
-    "version": "2.0.0",
+    "version": "2.1.0",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
