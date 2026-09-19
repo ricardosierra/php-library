@@ -2,7 +2,7 @@
 
 use Bkwld\Library\Utils\URL;
 
-class URLTest extends \PHPUnit_Framework_TestCase {
+class URLTest extends \PHPUnit\Framework\TestCase {
 
 	public function testUnsetParam() {
 		$this->assertEquals('http://domain.com/whatever', URL::unsetParam('http://domain.com/whatever?foo=bar', 'foo'));
