@@ -9,7 +9,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.3",
+        "php": "^8.4",
         "illuminate/support": "^13.0"
     },
     "require-dev": {
@@ -21,7 +21,7 @@
             "Bkwld\\Library\\": "src/"
         }
     },
-    "version": "2.3.0",
+    "version": "2.4.0",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
